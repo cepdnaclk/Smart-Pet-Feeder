@@ -45,11 +45,5 @@
     "id": 7,
     "title": "Testing",
     "to": "testing"
-  },
-
-  {
-    "id": 9,
-    "title": "Team",
-    "to": "team"
   }
 ]
